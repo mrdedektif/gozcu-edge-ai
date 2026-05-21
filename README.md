@@ -17,6 +17,7 @@ Literatürdeki çalışmalar (örneğin *Noutele, 2024*) çoğunlukla tekil sens
 
 Sistemin çalışma mantığı aşağıdaki ardışık akış şemasına dayanmaktadır:
 
+Çok Yakında....
 
 ---
 
